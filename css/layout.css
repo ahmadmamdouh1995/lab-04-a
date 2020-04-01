@@ -1,0 +1,467 @@
+
+@media (min-width : 480px) and (max-width : 767px){
+
+
+    #a{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgb(184, 131, 122);
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        width: 480px;
+        height: 75px;
+    
+    }
+    main{
+        /* text-align: center; */
+        width: 482px;
+        height: auto;
+       
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    
+    aside #b{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgb(6, 160, 75);
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        width: 480px;
+        height: 150px;
+    
+    }
+    
+    main #c{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: tomato;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        width: 480px;
+        height: 125px;
+    
+    }
+    main #d{
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgb(55, 16, 128);
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        width: 480px;
+        height: 125px;
+    
+    
+    }
+    
+    
+    main #e{
+     
+        
+        text-align: center;
+        width: 240px;
+        height: 250px;
+        background-color:  rgb(49, 219, 34);
+        line-height: 250px;
+        margin-top:  0px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        border-top: none;
+        float: left;
+        
+    }
+    
+    
+    main #f{
+    
+        text-align: center;
+        width: 480px;
+        height: 250px;
+        background-color:  rgb(236, 46, 46);
+        line-height: 250px;
+        margin-top:  0px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        border-top: none;
+    } 
+    
+    main #g{
+    
+        text-align: center;
+        width: 240px;
+        height: 250px;
+        background-color:  rgb(201, 58, 118);
+        line-height: 250px;
+        margin-top:  0px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        border-top: none;
+        float: left;
+    
+    }
+    
+    main #h{
+    
+    
+        text-align: center;
+        width: 480px;
+        height: 250px;
+        background-color:  rgb(214, 164, 26);
+        line-height: 250px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        border-top: none;
+    }
+    
+    
+    main #sec2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: tomato;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        width: 480px;
+        height: 80px;
+    
+    
+     }
+    }
+    
+    
+    
+    @media  (min-width: 768px )  {
+        * {
+            width:  971px;
+        }
+        
+        #a{
+    
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgb(184, 131, 122);
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            width: 960px;
+            height: 100px;
+           
+        }
+        
+          
+        aside #b{
+    
+            text-align: center;
+            width: 200px;
+            height: 600px;
+            background-color: rgb(41, 53, 20);
+            line-height: 600px;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            float: left;
+        }
+        main #c{
+            text-align: center;
+            width: 40%;
+            height: 200px;
+            background-color:  rgb(8, 33, 104);
+            line-height: 200px;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+        }
+        main #d{
+            text-align: center;
+            width: 38%;
+            height: 200px;
+            background-color:  rgb(85, 14, 14);
+            line-height: 200px;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+        }
+    
+        main #e{
+            text-align: center;
+            width: 20%;
+            height: 250px;
+            background-color:  rgb(152, 199, 152);
+            line-height: 250px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+            
+        }
+        
+        
+        main #f{
+            text-align: center;
+            width: 20%;
+            height: 250px;
+            background-color:  rgb(98, 98, 126);
+            line-height: 250px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+        }
+        
+        main #g{
+            text-align: center;
+            width: 20%;
+            height: 250px;
+            background-color:  rgb(16, 160, 179);
+            line-height: 250px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+        
+        }
+        
+        main #h{
+            text-align: center;
+            width: 18%;
+            height: 250px;
+            background-color:  rgb(19, 196, 27);
+            line-height: 250px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+        }
+        
+        main #sec2{
+            text-align: center;
+            width: 78%;
+            height: 150px;
+            background-color:  rgb(255, 16, 16);
+            line-height: 150px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-left: none;
+            border-top: none;
+            float: left;
+        }
+    
+    
+    }
+    @media (min-width : 971px){
+    
+        * {
+            width:  1224px;
+        }
+        
+        #a{
+    
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgb(198, 211, 14);
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            width: 98.5%;
+            height: 100px;
+           
+        }
+        
+          
+        aside #b{
+    
+            text-align: center;
+            width: 250px;
+            height: 600px;
+            background-color: rgb(19, 3, 80);
+            line-height: 600px;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            float: left;
+        }
+        main #c{
+            text-align: center;
+            width: 40%;
+            height: 200px;
+            background-color:  rgb(24, 245, 135);
+            line-height: 200px;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+        }
+        main #d{
+            text-align: center;
+            width: 38%;
+            height: 200px;
+            background-color:  rgb(18, 159, 194);
+            line-height: 200px;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+        }
+    
+        main #e{
+            text-align: center;
+            width: 20%;
+            height: 250px;
+            background-color:  rgb(26, 250, 26);
+            line-height: 250px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+            
+        }
+        
+        
+        main #f{
+            text-align: center;
+            width: 20%;
+            height: 250px;
+            background-color:  rgb(139, 28, 61);
+            line-height: 250px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+        }
+        
+        main #g{
+            text-align: center;
+            width: 20%;
+            height: 250px;
+            background-color:  rgb(217, 255, 0);
+            line-height: 250px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+        
+        }
+        
+        main #h{
+            text-align: center;
+            width: 18%;
+            height: 250px;
+            background-color:  rgb(26, 39, 82);
+            line-height: 250px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+        }
+        
+        main #sec2{
+            text-align: center;
+            width: 78%;
+            height: 150px;
+            background-color:  rgb(29, 8, 8);
+            line-height: 150px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-left: none;
+            border-top: none;
+            float: left;
+        }
+    
+    }
